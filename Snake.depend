@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1622797827 source:c:\users\tanya\desktop\c prog\snake\food.cpp
+	"Food.h"
+
+1622797713 c:\users\tanya\desktop\c prog\snake\food.h
+	<windows.h>
+	<cstdlib>
+
+1622797734 source:c:\users\tanya\desktop\c prog\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	"Snake.h"
+	<windows.h>
+	"Food.h"
+
+1622797720 c:\users\tanya\desktop\c prog\snake\snake.h
+	<windows.h>
+	<vector>
+
+1622797726 source:c:\users\tanya\desktop\c prog\snake\snake.cpp
+	"Snake.h"
+
